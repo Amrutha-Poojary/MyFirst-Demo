@@ -1,2 +1,3 @@
 # MyFirst-Demo
-Rhis is ny first repository.
+This is ny first repository.
+Name- Amrutha
